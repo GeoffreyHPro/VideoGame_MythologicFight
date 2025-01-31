@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: abc66e5e9a271b24d824e685abd9eb61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1295476555106780972
+    second: Athena_sprite_0
+  - first:
+      213: -6016249051241374148
+    second: Athena_sprite_1
+  - first:
+      213: 8135761149674071962
+    second: Athena_sprite_2
+  - first:
+      213: -5116877674879893552
+    second: Athena_sprite_3
+  - first:
+      213: 4235805893260098863
+    second: Athena_sprite_4
+  - first:
+      213: 3399513757301125101
+    second: Athena_sprite_5
+  - first:
+      213: -9184610861432638007
+    second: Athena_sprite_6
+  - first:
+      213: 2925681532048608687
+    second: Athena_sprite_7
+  - first:
+      213: 8736818641149486804
+    second: Athena_sprite_8
+  - first:
+      213: -5650558504014226909
+    second: Athena_sprite_9
+  - first:
+      213: -3166245154730934003
+    second: Athena_sprite_10
+  - first:
+      213: -3028148246128271204
+    second: Athena_sprite_11
+  - first:
+      213: 4731570275117920032
+    second: Athena_sprite_12
+  - first:
+      213: 5312552297858238824
+    second: Athena_sprite_13
+  - first:
+      213: -1991715180788985507
+    second: Athena_sprite_14
+  - first:
+      213: -2190695445409643209
+    second: Athena_sprite_15
+  - first:
+      213: -8611008250055370166
+    second: Athena_sprite_16
+  - first:
+      213: 1650398679331587651
+    second: Athena_sprite_17
+  - first:
+      213: 7164752928116220932
+    second: Athena_sprite_18
+  - first:
+      213: -1344968040716625506
+    second: Athena_sprite_19
+  - first:
+      213: -7200749970221375823
+    second: Athena_sprite_20
+  - first:
+      213: 5292800250402412641
+    second: Athena_sprite_21
+  - first:
+      213: -2671643245218962130
+    second: Athena_sprite_22
+  - first:
+      213: 7879556052957244745
+    second: Athena_sprite_23
+  - first:
+      213: -3063369377025893457
+    second: Athena_sprite_24
+  - first:
+      213: 7331566961372103958
+    second: Athena_sprite_25
+  - first:
+      213: -289159900823368779
+    second: Athena_sprite_26
+  - first:
+      213: -8834217960574464993
+    second: Athena_sprite_27
+  - first:
+      213: -5648218948619665073
+    second: Athena_sprite_28
+  - first:
+      213: 4242278503686954439
+    second: Athena_sprite_29
+  - first:
+      213: -4756680785384876138
+    second: Athena_sprite_30
+  - first:
+      213: -8878429547032550730
+    second: Athena_sprite_31
+  - first:
+      213: 4355839201392565502
+    second: Athena_sprite_32
+  - first:
+      213: 4724527239253690369
+    second: Athena_sprite_33
+  - first:
+      213: 3779520338900605556
+    second: Athena_sprite_34
+  - first:
+      213: -4455839677625765531
+    second: Athena_sprite_35
+  - first:
+      213: -2465357334520766557
+    second: Athena_sprite_36
+  - first:
+      213: -5460801945393239751
+    second: Athena_sprite_37
+  - first:
+      213: 9005216398728644717
+    second: Athena_sprite_38
+  - first:
+      213: 3486343965767906060
+    second: Athena_sprite_39
+  - first:
+      213: 5364331154098712075
+    second: Athena_sprite_40
+  - first:
+      213: -4501941223537605535
+    second: Athena_sprite_41
+  - first:
+      213: 323145095596741259
+    second: Athena_sprite_42
+  - first:
+      213: 4776470627758445330
+    second: Athena_sprite_43
+  - first:
+      213: -2176273582883186705
+    second: Athena_sprite_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Athena_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1670
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c278cf920157af110800000000000000
+      internalID: 1295476555106780972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1679
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e1a740d5df18ca0800000000000000
+      internalID: -6016249051241374148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1667
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a972fb719a708e070800000000000000
+      internalID: 8135761149674071962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 405
+        width: 728
+        height: 1334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df38a57dd23df8b0800000000000000
+      internalID: -5116877674879893552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1654
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d3645840b98ca30800000000000000
+      internalID: 4235805893260098863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1654
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defacf830cf7d2f20800000000000000
+      internalID: 3399513757301125101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1660
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5fc1c6515b98080800000000000000
+      internalID: -9184610861432638007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1655
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad8dab3adb1a9820800000000000000
+      internalID: 2925681532048608687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1666
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6e9b4b34a6f3970800000000000000
+      internalID: 8736818641149486804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1650
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a5ba18afe2591b0800000000000000
+      internalID: -5650558504014226909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1626
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010678aecc3f04d0800000000000000
+      internalID: -3166245154730934003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1633
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c906d46c63bd9f5d0800000000000000
+      internalID: -3028148246128271204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1650
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f6336a81ae9a140800000000000000
+      internalID: 4731570275117920032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1651
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8698684fa2af9b940800000000000000
+      internalID: 5312552297858238824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1640
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d15b78910c54e0800000000000000
+      internalID: -1991715180788985507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1643
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735ca4569161991e0800000000000000
+      internalID: -2190695445409643209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1637
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4add71ae9d8f7880800000000000000
+      internalID: -8611008250055370166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1630
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346455bcad467e610800000000000000
+      internalID: 1650398679331587651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1639
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404aecfd3d05e6360800000000000000
+      internalID: 7164752928116220932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1627
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9915d261b6b55de0800000000000000
+      internalID: -1344968040716625506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1628
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bedc84ad0cc11c90800000000000000
+      internalID: -7200749970221375823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1625
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168955809cdc37940800000000000000
+      internalID: 5292800250402412641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1624
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25e62a9f9a6cead0800000000000000
+      internalID: -2671643245218962130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1612
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dab448b7ec95d60800000000000000
+      internalID: 7879556052957244745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1617
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabdf8238c9bc75d0800000000000000
+      internalID: -3063369377025893457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1613
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615039b9e45feb560800000000000000
+      internalID: 7331566961372103958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1628
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc22c2a92bcfbf0800000000000000
+      internalID: -289159900823368779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1627
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c459f029d866580800000000000000
+      internalID: -8834217960574464993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1596
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4105e1bace7d91b0800000000000000
+      internalID: -5648218948619665073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1610
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd598292d99fda30800000000000000
+      internalID: 4242278503686954439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1599
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69755351700ecfdb0800000000000000
+      internalID: -4756680785384876138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1605
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2eacded5b79c480800000000000000
+      internalID: -8878429547032550730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1604
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc99b9ecac037c30800000000000000
+      internalID: 4355839201392565502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1609
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1088f531e74e09140800000000000000
+      internalID: 4724527239253690369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1608
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ad88539bd837430800000000000000
+      internalID: 3779520338900605556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617607db6da922c0800000000000000
+      internalID: -4455839677625765531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1586
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af5c77f09a49cdd0800000000000000
+      internalID: -2465357334520766557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1591
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939e21030955734b0800000000000000
+      internalID: -5460801945393239751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1597
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d684ebb5a94f8fc70800000000000000
+      internalID: 9005216398728644717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1592
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c033c6c8d5bf16030800000000000000
+      internalID: 3486343965767906060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1596
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e6d9163cee17a40800000000000000
+      internalID: 5364331154098712075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1581
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1648a5b3f44e581c0800000000000000
+      internalID: -4501941223537605535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1572
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8214f990ca0c7400800000000000000
+      internalID: 323145095596741259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1570
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21311a7aabe694240800000000000000
+      internalID: 4776470627758445330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Athena_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1588
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75e2ee4b25cc1e0800000000000000
+      internalID: -2176273582883186705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
