@@ -3,7 +3,7 @@ public class Athena : Unit
     Athena()
     {
         skillOneDescription = "Athena lance coup froudroyant";
-        skillTwoDescription = "Athena lance bénédiction d'Athénes";
+        skillTwoDescription = "Athena lance bénédiction d'Athènes";
         unitName = "Athena";
         damage = 5;
         maxHP = 130;
